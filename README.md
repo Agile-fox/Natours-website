@@ -1,5 +1,5 @@
 # Natours-website
-<a href="https://agile-fox.github.io/natours-css-sass-project/" target="_blank">Live view</a>
+<a href="https://agile-fox.github.io/Natours-website/" target="_blank">Live view</a>
 
 <b>Description</b> <br>
 Website that I build with Advanced CSS and Sass onlince course.

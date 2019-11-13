@@ -9,6 +9,7 @@ I leanerd prinicipals of modern web development and its tools<br>
 How to use sass and how it works behind the scenes<br>
 Good practices like DRY - don't repeat yourself and improved my RWD- Responsive Web Design knowledge <br>
 How to works with BEM methodology<br>
+How to create pop-up withh html/css
 
 <b>Worked with:</b>
 <ul>
